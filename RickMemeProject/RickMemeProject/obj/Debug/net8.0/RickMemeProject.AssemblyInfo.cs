@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RickMemeProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e084f013db97d56d7b5f3aa8a01bbb0cf943293")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62107201a713e274b02ebd0cffc921ee21691c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RickMemeProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RickMemeProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

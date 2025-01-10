@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemecsharp\\rickmemeproject\\rickmemeproject\\leiturafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|solutionrelative:rickmemeproject\\leiturafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemecsharp\\rickmemeproject\\rickmemeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|solutionrelative:rickmemeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LeituraFile.cs",
-              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
-              "RelativeDocumentMoniker": "RickMemeProject\\LeituraFile.cs",
-              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
-              "RelativeToolTip": "RickMemeProject\\LeituraFile.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAXAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\Program.cs",
+              "RelativeDocumentMoniker": "RickMemeProject\\Program.cs",
+              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\Program.cs",
+              "RelativeToolTip": "RickMemeProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:27:14.047Z",
+              "WhenOpened": "2025-01-10T17:36:26.794Z",
               "EditorCaption": ""
             }
           ]
