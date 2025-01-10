@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\",
+  "WorkspaceRootPath": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemeproject\\rickmemeproject\\leiturafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemecsharp\\rickmemeproject\\rickmemeproject\\leiturafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|solutionrelative:rickmemeproject\\leiturafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemeproject\\rickmemeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|solutionrelative:rickmemeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|c:\\users\\maico\\onedrive\\\u00E1rea de trabalho\\memerick\\rickmemeproject\\rickmemeproject\\frames\\titulo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F0D5E1C9-0244-49DA-9FDC-9C091E8DF5FA}|RickMemeProject\\RickMemeProject.csproj|solutionrelative:rickmemeproject\\frames\\titulo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LeituraFile.cs",
-              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
+              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
               "RelativeDocumentMoniker": "RickMemeProject\\LeituraFile.cs",
-              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
+              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\LeituraFile.cs",
               "RelativeToolTip": "RickMemeProject\\LeituraFile.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T13:59:35.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "titulo.txt",
-              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\Frames\\titulo.txt",
-              "RelativeDocumentMoniker": "RickMemeProject\\Frames\\titulo.txt",
-              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\Frames\\titulo.txt",
-              "RelativeToolTip": "RickMemeProject\\Frames\\titulo.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-10T13:53:27.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\Program.cs",
-              "RelativeDocumentMoniker": "RickMemeProject\\Program.cs",
-              "ToolTip": "C:\\Users\\maico\\OneDrive\\\u00C1rea de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\Program.cs",
-              "RelativeToolTip": "RickMemeProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T13:52:13.202Z",
+              "WhenOpened": "2025-01-10T17:27:14.047Z",
               "EditorCaption": ""
             }
           ]

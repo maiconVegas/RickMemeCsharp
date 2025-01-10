@@ -9,8 +9,8 @@ public static class LeituraFile
 {
     public static void ExibirTitulo()
     {
-        var enderecoDoArquivo = "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\Frames\\titulo.txt";
-        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
+        var enderecoDoArquivoTitulo = Path.Combine(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net8.0", ""), "Frames\\titulo.txt"); ;
+        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivoTitulo, FileMode.Open))
         {
             var leitor = new StreamReader(fluxoDeArquivo);
             while (!leitor.EndOfStream)
@@ -23,20 +23,33 @@ public static class LeituraFile
 
     public static void ExibirGiftRick()
     {
-
-        for (int i = 0; i < length; i++)
+        int time = 0;
+        while (time <= 10)
         {
-            
-        }
+            var enderecoFrames = Path.Combine(Directory.GetCurrentDirectory().Replace("\\bin\\Debug\\net8.0", ""), "Frames"); ;
 
-        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
-        {
-            var leitor = new StreamReader(fluxoDeArquivo);
-            while (!leitor.EndOfStream)
+            for (int i = 0; i < 28; i++)
             {
-                var linha = leitor.ReadLine();
-                Console.WriteLine(linha);
+                Console.Clear();
+                var caminhoArquivo = Path.Combine(enderecoFrames, $"rick{i}.txt");
+                if (File.Exists(caminhoArquivo))
+                {
+                    using (var fluxoDeArquivo = new FileStream(caminhoArquivo, FileMode.Open))
+                    using (var leitor = new StreamReader(fluxoDeArquivo))
+                    {
+                        while (!leitor.EndOfStream)
+                        {
+                            var linha = leitor.ReadLine();
+                            Console.WriteLine(linha);
+                        }
+                    }
+                }
+                Thread.Sleep(100);
             }
+            time += 1;
         }
+       
+
+
     }
 }

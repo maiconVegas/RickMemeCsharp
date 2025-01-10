@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\RickMemeProject.csproj",
+      "projectUniqueName": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\RickMemeProject.csproj",
       "projectName": "RickMemeProject",
-      "projectPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\RickMemeProject.csproj",
+      "projectPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\RickMemeProject.csproj",
       "packagesPath": "C:\\Users\\maico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeProject\\RickMemeProject\\obj\\",
+      "outputPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\MemeRick\\RickMemeCsharp\\RickMemeProject\\RickMemeProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
